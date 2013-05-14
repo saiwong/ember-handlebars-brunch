@@ -1,3 +1,6 @@
+## Warning
+This repository is no longer maintained.  Support for this project will continue to be provided within the new [ember-handlebars-brunch repo](https://github.com/bartsqueezy/ember-handlebars-brunch).
+
 ## ember-handlebars-brunch
 Adds [Ember Handlebars](http://emberjs.com/) support to
 [brunch](http://brunch.io).
